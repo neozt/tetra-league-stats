@@ -168,6 +168,6 @@ According to Tetrio, TR is calculated based on [GLIXARE](https://www.smogon.com/
 
 Following this line of thought, if we plot each player's percentile against their TR, we expect to see a proportional relationship, as percentile should also measure how likely a player is to beat a random player (a 70th percentile player should be able to beat 70% of random players). 
 
-![TR agaisnt percentile](assets\tr-percentile.png)
+![TR agaisnt percentile](assets/tr-percentile.png)
 
 Indeed, we obtain a directly proportional graph, we confirms our theory and also further reinforces how well GLIXARE estimates a player's chances of beating a random opponent.
